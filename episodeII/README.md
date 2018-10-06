@@ -6,8 +6,8 @@ This is the place to put all things related to the second workshop in the DITSeq
 
 This archive is organized as follows:
 
-`protocols/` - Contains all protocols that were used during the workshop
-`notes/` - Contains whatever notes we took during the workshop
+* `protocols/` - Contains all protocols that were used during the workshop
+* `notes/` - Contains whatever notes we took during the workshop
 
 # Workshop Announcement
 
