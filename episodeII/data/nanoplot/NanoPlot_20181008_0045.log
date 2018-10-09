@@ -1,0 +1,39 @@
+2018-10-08 00:45:06,168 NanoPlot 1.18.2 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=None, fastq_minimal=None, fastq_rich=['../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_0.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_1.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_2.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_3.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_4.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_5.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_6.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_7.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_8.fastq', '../pass/fastq_runid_429918b6a8ca205ff513bc0e94eefa9f633e6353_9.fastq'], font_scale=1, format='png', listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, outdir='.', percentqual=False, pickle=None, plots=['kde', 'dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=4, title=None, verbose=False)
+2018-10-08 00:45:06,168 Python version is: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+2018-10-08 00:45:06,169 Nanoplotter: valid output format png
+2018-10-08 00:45:06,180 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:06,183 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:06,183 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:06,187 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:11,740 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:11,742 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:12,210 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:12,214 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:12,381 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:12,383 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:13,025 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:13,027 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:17,636 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:17,638 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:18,441 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:18,446 Nanoget: Starting to collect statistics from rich fastq file.
+2018-10-08 00:45:19,094 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:19,918 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:20,464 Reduced DataFrame memory usage from 0.33083343505859375Mb to 0.15113162994384766Mb
+2018-10-08 00:45:22,136 Reduced DataFrame memory usage from 0.78582763671875Mb to 0.3587503433227539Mb
+2018-10-08 00:45:22,222 Nanoget: Gathered all metrics of 37684 reads
+2018-10-08 00:45:22,260 Calculated statistics
+2018-10-08 00:45:22,260 Using sequenced read lengths for plotting.
+2018-10-08 00:45:22,260 Processed the reads, optionally filtered. 37684 reads left
+2018-10-08 00:45:22,262 Nanoplotter: Valid color #4CB391.
+2018-10-08 00:45:22,262 Nanoplotter: Creating length plots for Read length.
+2018-10-08 00:45:22,263 Nanoplotter: Using 37684 reads maximum of 46242bp.
+2018-10-08 00:45:24,240 Created length plots
+2018-10-08 00:45:24,240 Nanoplotter: Creating Read lengths vs Average read quality plots using statistics from 37684 reads.
+2018-10-08 00:45:28,048 Created LengthvsQual plot
+2018-10-08 00:45:28,048 Nanoplotter: Creating heatmap of reads per channel using 37684 reads.
+2018-10-08 00:45:28,302 Created spatialheatmap for succesfull basecalls.
+2018-10-08 00:45:28,309 Nanoplotter: Creating timeplots using 37684 reads.
+2018-10-08 00:45:29,824 Created timeplots.
+2018-10-08 00:45:29,825 Writing html report.
+2018-10-08 00:45:34,056 Finished!
